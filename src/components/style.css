@@ -1,0 +1,17 @@
+ul
+{
+    list-style-type: none;
+
+}
+li
+{
+    float: left;
+    padding: 35px;
+    font-size: 30px;
+    text-align: center;
+}
+span
+{
+    font-size: 20px;
+    text-align: center;
+}
